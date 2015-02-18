@@ -1,6 +1,7 @@
 {
 	"name": "jquery",
 	"title": "jQuery",
+	"main": "jquery.min.js",
 	"description": "JavaScript library for DOM operations",
 	"version": "1.10.2",
 	"homepage": "http://jquery.com",
